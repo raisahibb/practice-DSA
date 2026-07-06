@@ -15,6 +15,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/raisahibb/practice-DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/raisahibb/practice-DSA/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raisahibb/practice-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raisahibb/practice-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
