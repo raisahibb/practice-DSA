@@ -47,5 +47,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/raisahibb/practice-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raisahibb/practice-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/raisahibb/practice-DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
