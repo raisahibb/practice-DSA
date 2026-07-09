@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raisahibb/practice-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Brainteaser
 |  |
 | ------- |
