@@ -19,6 +19,7 @@
 | [0027-remove-element](https://github.com/raisahibb/practice-DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/raisahibb/practice-DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raisahibb/practice-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/raisahibb/practice-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/raisahibb/practice-DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -61,6 +62,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/raisahibb/practice-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/raisahibb/practice-DSA/tree/master/0344-reverse-string) |
 | [0686-repeated-string-match](https://github.com/raisahibb/practice-DSA/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/raisahibb/practice-DSA/tree/master/0812-rotate-string) |
