@@ -1,19 +1,16 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
+        set<int> s(nums1.begin(), nums1.end());
         vector<int> result;
-        map<int, int> mp;
-        for(auto num : nums1)
-        {
-            mp[num]++;
-        }
+
 
         for(auto num : nums2)
         {
-            if(mp.find(num) != mp.end())
+            if(s.contains(num))
             {
                 result.push_back(num);
-                mp.erase(num);
+                s.erase(num);
             }
         }
         return result;
