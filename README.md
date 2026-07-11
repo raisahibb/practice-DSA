@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/raisahibb/practice-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/raisahibb/practice-DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/raisahibb/practice-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/raisahibb/practice-DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/raisahibb/practice-DSA/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/raisahibb/practice-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/raisahibb/practice-DSA/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
