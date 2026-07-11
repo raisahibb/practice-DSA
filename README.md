@@ -11,6 +11,7 @@
 | [0055-jump-game](https://github.com/raisahibb/practice-DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/raisahibb/practice-DSA/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/raisahibb/practice-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/raisahibb/practice-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/raisahibb/practice-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -36,6 +37,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/raisahibb/practice-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/raisahibb/practice-DSA/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
