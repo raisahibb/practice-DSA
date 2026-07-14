@@ -15,6 +15,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/raisahibb/practice-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/raisahibb/practice-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2195-time-needed-to-buy-tickets](https://github.com/raisahibb/practice-DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/raisahibb/practice-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -112,4 +113,12 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/raisahibb/practice-DSA/tree/master/2195-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/raisahibb/practice-DSA/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
