@@ -12,6 +12,7 @@
 | [0055-jump-game](https://github.com/raisahibb/practice-DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/raisahibb/practice-DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/raisahibb/practice-DSA/tree/master/1646-kth-missing-positive-number) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/raisahibb/practice-DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -40,6 +42,7 @@
 | [0001-two-sum](https://github.com/raisahibb/practice-DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raisahibb/practice-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/raisahibb/practice-DSA/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Tree
@@ -66,6 +69,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +119,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Queue
 |  |
@@ -128,8 +133,14 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
