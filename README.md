@@ -87,6 +87,7 @@
 | [0205-isomorphic-strings](https://github.com/raisahibb/practice-DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/raisahibb/practice-DSA/tree/master/0344-reverse-string) |
 | [0686-repeated-string-match](https://github.com/raisahibb/practice-DSA/tree/master/0686-repeated-string-match) |
+| [0742-to-lower-case](https://github.com/raisahibb/practice-DSA/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/raisahibb/practice-DSA/tree/master/0812-rotate-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/raisahibb/practice-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## String Matching
