@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/raisahibb/practice-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raisahibb/practice-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/raisahibb/practice-DSA/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/raisahibb/practice-DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/raisahibb/practice-DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raisahibb/practice-DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/raisahibb/practice-DSA/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raisahibb/practice-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/raisahibb/practice-DSA/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/raisahibb/practice-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/raisahibb/practice-DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
