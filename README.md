@@ -15,6 +15,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/raisahibb/practice-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/raisahibb/practice-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/raisahibb/practice-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/raisahibb/practice-DSA/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
 ## Greedy
 |  |
@@ -118,6 +121,7 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/raisahibb/practice-DSA/tree/master/0168-excel-sheet-column-title) |
+| [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raisahibb/practice-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Brainteaser
@@ -127,6 +131,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
 ## Counting
 |  |
