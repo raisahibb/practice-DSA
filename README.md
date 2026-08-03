@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
 | [1646-kth-missing-positive-number](https://github.com/raisahibb/practice-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/raisahibb/practice-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2195-time-needed-to-buy-tickets](https://github.com/raisahibb/practice-DSA/tree/master/2195-time-needed-to-buy-tickets) |
@@ -113,6 +114,7 @@
 | [0055-jump-game](https://github.com/raisahibb/practice-DSA/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
+| [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raisahibb/practice-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -133,6 +136,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
+| [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
 ## Counting
 |  |
 | ------- |
