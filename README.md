@@ -106,6 +106,7 @@
 | [0742-to-lower-case](https://github.com/raisahibb/practice-DSA/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/raisahibb/practice-DSA/tree/master/0812-rotate-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/raisahibb/practice-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/raisahibb/practice-DSA/tree/master/0055-jump-game) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raisahibb/practice-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -177,4 +180,12 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/raisahibb/practice-DSA/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
