@@ -121,6 +121,7 @@
 | [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
 | [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/raisahibb/practice-DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -136,6 +137,7 @@
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raisahibb/practice-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Brainteaser
 |  |
@@ -147,6 +149,7 @@
 | [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
 | [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
 ## Counting
 |  |
 | ------- |
@@ -192,4 +195,20 @@
 |  |
 | ------- |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
