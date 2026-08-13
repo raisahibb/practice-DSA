@@ -23,6 +23,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/raisahibb/practice-DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/raisahibb/practice-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/raisahibb/practice-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/raisahibb/practice-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raisahibb/practice-DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [4107-find-missing-elements](https://github.com/raisahibb/practice-DSA/tree/master/4107-find-missing-elements) |
 | [4212-toggle-light-bulbs](https://github.com/raisahibb/practice-DSA/tree/master/4212-toggle-light-bulbs) |
@@ -109,6 +110,7 @@
 | [0742-to-lower-case](https://github.com/raisahibb/practice-DSA/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/raisahibb/practice-DSA/tree/master/0812-rotate-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/raisahibb/practice-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/raisahibb/practice-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/raisahibb/practice-DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## String Matching
@@ -217,4 +219,12 @@
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raisahibb/practice-DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/raisahibb/practice-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/raisahibb/practice-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
