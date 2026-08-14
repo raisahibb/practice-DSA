@@ -59,6 +59,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raisahibb/practice-DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/raisahibb/practice-DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4107-find-missing-elements](https://github.com/raisahibb/practice-DSA/tree/master/4107-find-missing-elements) |
 | [4212-toggle-light-bulbs](https://github.com/raisahibb/practice-DSA/tree/master/4212-toggle-light-bulbs) |
 ## Tree
@@ -111,6 +112,7 @@
 | [0812-rotate-string](https://github.com/raisahibb/practice-DSA/tree/master/0812-rotate-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/raisahibb/practice-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/raisahibb/practice-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/raisahibb/practice-DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/raisahibb/practice-DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## String Matching
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raisahibb/practice-DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/raisahibb/practice-DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
 | ------- |
