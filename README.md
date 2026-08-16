@@ -20,6 +20,7 @@
 | [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
 | [1646-kth-missing-positive-number](https://github.com/raisahibb/practice-DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/raisahibb/practice-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
 | [2195-time-needed-to-buy-tickets](https://github.com/raisahibb/practice-DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/raisahibb/practice-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/raisahibb/practice-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/raisahibb/practice-DSA/tree/master/0055-jump-game) |
+| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/raisahibb/practice-DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Math
@@ -144,6 +146,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raisahibb/practice-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Brainteaser
 |  |
@@ -156,11 +159,13 @@
 | [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
 | [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
 ## Queue
 |  |
 | ------- |
@@ -205,10 +210,12 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -217,6 +224,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
