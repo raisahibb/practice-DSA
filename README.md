@@ -26,6 +26,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/raisahibb/practice-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/raisahibb/practice-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raisahibb/practice-DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/raisahibb/practice-DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4107-find-missing-elements](https://github.com/raisahibb/practice-DSA/tree/master/4107-find-missing-elements) |
 | [4212-toggle-light-bulbs](https://github.com/raisahibb/practice-DSA/tree/master/4212-toggle-light-bulbs) |
 ## Two Pointers
@@ -61,6 +62,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raisahibb/practice-DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/raisahibb/practice-DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/raisahibb/practice-DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4107-find-missing-elements](https://github.com/raisahibb/practice-DSA/tree/master/4107-find-missing-elements) |
 | [4212-toggle-light-bulbs](https://github.com/raisahibb/practice-DSA/tree/master/4212-toggle-light-bulbs) |
 ## Tree
