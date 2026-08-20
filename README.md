@@ -1,243 +1,46 @@
 # practice-DSA
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/raisahibb/practice-DSA/tree/master/0001-two-sum) |
-| [0004-median-of-two-sorted-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0004-median-of-two-sorted-arrays) |
-| [0027-remove-element](https://github.com/raisahibb/practice-DSA/tree/master/0027-remove-element) |
-| [0033-search-in-rotated-sorted-array](https://github.com/raisahibb/practice-DSA/tree/master/0033-search-in-rotated-sorted-array) |
-| [0036-valid-sudoku](https://github.com/raisahibb/practice-DSA/tree/master/0036-valid-sudoku) |
-| [0055-jump-game](https://github.com/raisahibb/practice-DSA/tree/master/0055-jump-game) |
-| [0075-sort-colors](https://github.com/raisahibb/practice-DSA/tree/master/0075-sort-colors) |
-| [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
-| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
-| [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
-| [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
-| [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
-| [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
-| [1646-kth-missing-positive-number](https://github.com/raisahibb/practice-DSA/tree/master/1646-kth-missing-positive-number) |
-| [1878-check-if-array-is-sorted-and-rotated](https://github.com/raisahibb/practice-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
-| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
-| [2195-time-needed-to-buy-tickets](https://github.com/raisahibb/practice-DSA/tree/master/2195-time-needed-to-buy-tickets) |
-| [2219-maximum-number-of-words-found-in-sentences](https://github.com/raisahibb/practice-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
-| [2271-rearrange-array-elements-by-sign](https://github.com/raisahibb/practice-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
-| [2319-longest-substring-of-one-repeating-character](https://github.com/raisahibb/practice-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
-| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raisahibb/practice-DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
-| [3705-find-the-largest-almost-missing-integer](https://github.com/raisahibb/practice-DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
-| [4107-find-missing-elements](https://github.com/raisahibb/practice-DSA/tree/master/4107-find-missing-elements) |
-| [4212-toggle-light-bulbs](https://github.com/raisahibb/practice-DSA/tree/master/4212-toggle-light-bulbs) |
-## Two Pointers
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/raisahibb/practice-DSA/tree/master/0027-remove-element) |
-| [0075-sort-colors](https://github.com/raisahibb/practice-DSA/tree/master/0075-sort-colors) |
-| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raisahibb/practice-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
-| [0151-reverse-words-in-a-string](https://github.com/raisahibb/practice-DSA/tree/master/0151-reverse-words-in-a-string) |
-| [0160-intersection-of-two-linked-lists](https://github.com/raisahibb/practice-DSA/tree/master/0160-intersection-of-two-linked-lists) |
-| [0344-reverse-string](https://github.com/raisahibb/practice-DSA/tree/master/0344-reverse-string) |
-| [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
-| [2271-rearrange-array-elements-by-sign](https://github.com/raisahibb/practice-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
-| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/raisahibb/practice-DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/raisahibb/practice-DSA/tree/master/0075-sort-colors) |
-| [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
-| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
-| [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
-| [4107-find-missing-elements](https://github.com/raisahibb/practice-DSA/tree/master/4107-find-missing-elements) |
-| [4212-toggle-light-bulbs](https://github.com/raisahibb/practice-DSA/tree/master/4212-toggle-light-bulbs) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/raisahibb/practice-DSA/tree/master/0001-two-sum) |
-| [0036-valid-sudoku](https://github.com/raisahibb/practice-DSA/tree/master/0036-valid-sudoku) |
-| [0160-intersection-of-two-linked-lists](https://github.com/raisahibb/practice-DSA/tree/master/0160-intersection-of-two-linked-lists) |
-| [0205-isomorphic-strings](https://github.com/raisahibb/practice-DSA/tree/master/0205-isomorphic-strings) |
-| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
-| [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
-| [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
-| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raisahibb/practice-DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
-| [3349-maximum-length-substring-with-two-occurrences](https://github.com/raisahibb/practice-DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
-| [3705-find-the-largest-almost-missing-integer](https://github.com/raisahibb/practice-DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
-| [4107-find-missing-elements](https://github.com/raisahibb/practice-DSA/tree/master/4107-find-missing-elements) |
-| [4212-toggle-light-bulbs](https://github.com/raisahibb/practice-DSA/tree/master/4212-toggle-light-bulbs) |
-## Tree
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/raisahibb/practice-DSA/tree/master/0102-binary-tree-level-order-traversal) |
-| [0110-balanced-binary-tree](https://github.com/raisahibb/practice-DSA/tree/master/0110-balanced-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0110-balanced-binary-tree](https://github.com/raisahibb/practice-DSA/tree/master/0110-balanced-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/raisahibb/practice-DSA/tree/master/0102-binary-tree-level-order-traversal) |
-| [0110-balanced-binary-tree](https://github.com/raisahibb/practice-DSA/tree/master/0110-balanced-binary-tree) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0004-median-of-two-sorted-arrays) |
-| [0033-search-in-rotated-sorted-array](https://github.com/raisahibb/practice-DSA/tree/master/0033-search-in-rotated-sorted-array) |
-| [0349-intersection-of-two-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0349-intersection-of-two-arrays) |
-| [1646-kth-missing-positive-number](https://github.com/raisahibb/practice-DSA/tree/master/1646-kth-missing-positive-number) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/raisahibb/practice-DSA/tree/master/0004-median-of-two-sorted-arrays) |
-| [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
-| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
-## Linked List
-|  |
-| ------- |
-| [0024-swap-nodes-in-pairs](https://github.com/raisahibb/practice-DSA/tree/master/0024-swap-nodes-in-pairs) |
-| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raisahibb/practice-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
-| [0160-intersection-of-two-linked-lists](https://github.com/raisahibb/practice-DSA/tree/master/0160-intersection-of-two-linked-lists) |
-## Recursion
-|  |
-| ------- |
-| [0024-swap-nodes-in-pairs](https://github.com/raisahibb/practice-DSA/tree/master/0024-swap-nodes-in-pairs) |
-| [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
-## String
-|  |
-| ------- |
-| [0151-reverse-words-in-a-string](https://github.com/raisahibb/practice-DSA/tree/master/0151-reverse-words-in-a-string) |
-| [0168-excel-sheet-column-title](https://github.com/raisahibb/practice-DSA/tree/master/0168-excel-sheet-column-title) |
-| [0205-isomorphic-strings](https://github.com/raisahibb/practice-DSA/tree/master/0205-isomorphic-strings) |
-| [0344-reverse-string](https://github.com/raisahibb/practice-DSA/tree/master/0344-reverse-string) |
-| [0686-repeated-string-match](https://github.com/raisahibb/practice-DSA/tree/master/0686-repeated-string-match) |
-| [0742-to-lower-case](https://github.com/raisahibb/practice-DSA/tree/master/0742-to-lower-case) |
-| [0812-rotate-string](https://github.com/raisahibb/practice-DSA/tree/master/0812-rotate-string) |
-| [2219-maximum-number-of-words-found-in-sentences](https://github.com/raisahibb/practice-DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
-| [2319-longest-substring-of-one-repeating-character](https://github.com/raisahibb/practice-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
-| [3349-maximum-length-substring-with-two-occurrences](https://github.com/raisahibb/practice-DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
-| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/raisahibb/practice-DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
-| [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
-## String Matching
-|  |
-| ------- |
-| [0686-repeated-string-match](https://github.com/raisahibb/practice-DSA/tree/master/0686-repeated-string-match) |
-| [0812-rotate-string](https://github.com/raisahibb/practice-DSA/tree/master/0812-rotate-string) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/raisahibb/practice-DSA/tree/master/0055-jump-game) |
-| [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
-| [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
-| [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
-| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
-| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/raisahibb/practice-DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
-## Greedy
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/raisahibb/practice-DSA/tree/master/0055-jump-game) |
-| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
-| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/raisahibb/practice-DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
-| [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
-## Math
-|  |
-| ------- |
-| [0168-excel-sheet-column-title](https://github.com/raisahibb/practice-DSA/tree/master/0168-excel-sheet-column-title) |
-| [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
-| [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
-| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raisahibb/practice-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
-| [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
-| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
-| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
-| [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
-## Brainteaser
-|  |
-| ------- |
-| [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
-## Game Theory
-|  |
-| ------- |
-| [0486-predict-the-winner](https://github.com/raisahibb/practice-DSA/tree/master/0486-predict-the-winner) |
-| [1086-divisor-game](https://github.com/raisahibb/practice-DSA/tree/master/1086-divisor-game) |
-| [1522-stone-game-iii](https://github.com/raisahibb/practice-DSA/tree/master/1522-stone-game-iii) |
-| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
-| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
-## Counting
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
-| [1510-find-lucky-integer-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
-| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
-## Queue
-|  |
-| ------- |
-| [2195-time-needed-to-buy-tickets](https://github.com/raisahibb/practice-DSA/tree/master/2195-time-needed-to-buy-tickets) |
-## Simulation
-|  |
-| ------- |
-| [2195-time-needed-to-buy-tickets](https://github.com/raisahibb/practice-DSA/tree/master/2195-time-needed-to-buy-tickets) |
-| [2271-rearrange-array-elements-by-sign](https://github.com/raisahibb/practice-DSA/tree/master/2271-rearrange-array-elements-by-sign) |
-| [4212-toggle-light-bulbs](https://github.com/raisahibb/practice-DSA/tree/master/4212-toggle-light-bulbs) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
-| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
-## Quickselect
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/raisahibb/practice-DSA/tree/master/0215-kth-largest-element-in-an-array) |
-| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
-## Bucket Sort
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/raisahibb/practice-DSA/tree/master/0347-top-k-frequent-elements) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/raisahibb/practice-DSA/tree/master/0102-binary-tree-level-order-traversal) |
-## Matrix
-|  |
-| ------- |
-| [0036-valid-sudoku](https://github.com/raisahibb/practice-DSA/tree/master/0036-valid-sudoku) |
-## Backtracking
-|  |
-| ------- |
-| [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
-## Number Theory
-|  |
-| ------- |
-| [3635-smallest-divisible-digit-product-ii](https://github.com/raisahibb/practice-DSA/tree/master/3635-smallest-divisible-digit-product-ii) |
-## Minimax
-|  |
-| ------- |
-| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
-| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
-## Nim Game
-|  |
-| ------- |
-| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
-| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
-## Sprague–Grundy Theorem
-|  |
-| ------- |
-| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
-## Zero-Sum Game
-|  |
-| ------- |
-| [1617-stone-game-iv](https://github.com/raisahibb/practice-DSA/tree/master/1617-stone-game-iv) |
-| [2156-stone-game-ix](https://github.com/raisahibb/practice-DSA/tree/master/2156-stone-game-ix) |
-## Sliding Window
-|  |
-| ------- |
-| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raisahibb/practice-DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
-| [3349-maximum-length-substring-with-two-occurrences](https://github.com/raisahibb/practice-DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
-## Segment Tree
-|  |
-| ------- |
-| [2319-longest-substring-of-one-repeating-character](https://github.com/raisahibb/practice-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
-## Ordered Set
-|  |
-| ------- |
-| [2319-longest-substring-of-one-repeating-character](https://github.com/raisahibb/practice-DSA/tree/master/2319-longest-substring-of-one-repeating-character) |
-<!---LeetCode Topics End-->
+<!---LeetHub Summary Start-->
+## LeetHub Summary
+
+| Total Solved | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: |
+| 1 | 1 | 0 | 0 |
+
+## Activity
+
+| Current Streak | Best Streak | Active Days |
+| ---: | ---: | ---: |
+| 1 days | 1 days | 1 |
+
+| Date | Problems |
+| --- | ---: |
+| 2026-08-20 | 1 |
+
+## Top Tags
+
+| Tag | Problems | Coverage |
+| --- | ---: | ---: |
+| Array | 1 | 100% |
+| Simulation | 1 | 100% |
+
+## Topics
+
+| Topic | Problems |
+| --- | ---: |
+| [Array](Topics/array/) | 1 |
+| [Backtracking](Topics/backtracking/) | 0 |
+| [Binary Search](Topics/binary-search/) | 0 |
+| [Binary Tree](Topics/binary-tree/) | 0 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Data Structures](Topics/data-structures/) | 0 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 0 |
+| [Graph](Topics/graph/) | 0 |
+| [Hash Table](Topics/hash-table/) | 0 |
+| [Heap](Topics/heap/) | 0 |
+| [Linked List](Topics/linked-list/) | 0 |
+| [Matrix](Topics/matrix/) | 0 |
+| [Simulation](Topics/simulation/) | 1 |
+| [Sorting](Topics/sorting/) | 0 |
+| [Stack](Topics/stack/) | 0 |
+<!---LeetHub Summary End-->
