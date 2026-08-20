@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-08-20T17:15:51.749Z",
+  "updatedAt": "2026-08-20T17:15:53.639Z",
   "problems": [
     {
       "frontendId": "3069",
@@ -22,7 +22,7 @@
           "filename": "3069-distribute-elements-into-two-arrays-i.cpp",
           "path": "3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.cpp",
           "sha": "360c0ff1425cd78cff06a0df252fb22bfff5055a",
-          "lastSyncedAt": "2026-08-20T17:15:51.749Z"
+          "lastSyncedAt": "2026-08-20T17:15:53.639Z"
         }
       ]
     }
