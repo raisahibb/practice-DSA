@@ -5,10 +5,10 @@ public:
         
         for(int i=0;i<nums.size();i++)
         {
-            int ok=target-nums[i];
-            if(mp.find(ok)!=mp.end())
+            int key = target-nums[i];
+            if(mp.find(key)!=mp.end())
             {
-                return{mp[ok],i};
+                return{mp[key],i};
             }
             mp[nums[i]]=i;
             
