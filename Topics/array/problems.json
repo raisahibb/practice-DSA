@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-20T17:14:19.782Z",
-  "problems": []
+  "updatedAt": "2026-08-20T17:15:51.749Z",
+  "problems": [
+    {
+      "frontendId": "3069",
+      "title": "Distribute Elements Into Two Arrays I",
+      "slug": "distribute-elements-into-two-arrays-i",
+      "problemName": "3069-distribute-elements-into-two-arrays-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+      "folderPath": "3069-distribute-elements-into-two-arrays-i/",
+      "readmePath": "3069-distribute-elements-into-two-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3069-distribute-elements-into-two-arrays-i.cpp",
+          "path": "3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.cpp",
+          "sha": "360c0ff1425cd78cff06a0df252fb22bfff5055a",
+          "lastSyncedAt": "2026-08-20T17:15:51.749Z"
+        }
+      ]
+    }
+  ]
 }
