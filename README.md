@@ -55,4 +55,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raisahibb/practice-DSA/tree/main/0001-two-sum/) | Easy |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raisahibb/practice-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
