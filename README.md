@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raisahibb/practice-DSA/tree/main/0001-two-sum/) | Easy |
+| [0283-move-zeroes](https://github.com/raisahibb/practice-DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/raisahibb/practice-DSA/tree/master/1927-sum-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/raisahibb/practice-DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
