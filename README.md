@@ -52,6 +52,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/raisahibb/practice-DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/raisahibb/practice-DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/raisahibb/practice-DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisahibb/practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/raisahibb/practice-DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/raisahibb/practice-DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/raisahibb/practice-DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisahibb/practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/raisahibb/practice-DSA/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -89,4 +91,16 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/raisahibb/practice-DSA/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/raisahibb/practice-DSA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/raisahibb/practice-DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/raisahibb/practice-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
