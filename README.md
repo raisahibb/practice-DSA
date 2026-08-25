@@ -55,10 +55,12 @@
 | [0042-trapping-rain-water](https://github.com/raisahibb/practice-DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisahibb/practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/raisahibb/practice-DSA/tree/master/0283-move-zeroes) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/raisahibb/practice-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raisahibb/practice-DSA/tree/main/0001-two-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/raisahibb/practice-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
