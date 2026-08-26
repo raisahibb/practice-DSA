@@ -56,6 +56,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisahibb/practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/raisahibb/practice-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/raisahibb/practice-DSA/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/raisahibb/practice-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisahibb/practice-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raisahibb/practice-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisahibb/practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/raisahibb/practice-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,11 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/raisahibb/practice-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisahibb/practice-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raisahibb/practice-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/raisahibb/practice-DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
