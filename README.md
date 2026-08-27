@@ -54,7 +54,6 @@
 | [0015-3sum](https://github.com/raisahibb/practice-DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/raisahibb/practice-DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisahibb/practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0209-minimum-size-subarray-sum](https://github.com/raisahibb/practice-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/raisahibb/practice-DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/raisahibb/practice-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/raisahibb/practice-DSA/tree/master/0485-max-consecutive-ones) |
@@ -70,6 +69,7 @@
 | [0904-fruit-into-baskets](https://github.com/raisahibb/practice-DSA/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisahibb/practice-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raisahibb/practice-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raisahibb/practice-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -80,10 +80,12 @@
 | ------- |
 | [1927-sum-game](https://github.com/raisahibb/practice-DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raisahibb/practice-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raisahibb/practice-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/raisahibb/practice-DSA/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raisahibb/practice-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -99,7 +101,6 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisahibb/practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0209-minimum-size-subarray-sum](https://github.com/raisahibb/practice-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/raisahibb/practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/raisahibb/practice-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -121,7 +122,6 @@
 ## Sliding Window
 |  |
 | ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/raisahibb/practice-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/raisahibb/practice-DSA/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/raisahibb/practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/raisahibb/practice-DSA/tree/master/0904-fruit-into-baskets) |
@@ -131,7 +131,6 @@
 ## Prefix Sum
 |  |
 | ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/raisahibb/practice-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/raisahibb/practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/raisahibb/practice-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
@@ -150,4 +149,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/raisahibb/practice-DSA/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raisahibb/practice-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raisahibb/practice-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
