@@ -57,6 +57,7 @@
 | [0239-sliding-window-maximum](https://github.com/raisahibb/practice-DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/raisahibb/practice-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/raisahibb/practice-DSA/tree/master/0485-max-consecutive-ones) |
+| [0904-fruit-into-baskets](https://github.com/raisahibb/practice-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/raisahibb/practice-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisahibb/practice-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raisahibb/practice-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raisahibb/practice-DSA/tree/main/0001-two-sum/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/raisahibb/practice-DSA/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisahibb/practice-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raisahibb/practice-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/raisahibb/practice-DSA/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/raisahibb/practice-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/raisahibb/practice-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raisahibb/practice-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raisahibb/practice-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
