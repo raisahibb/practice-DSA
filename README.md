@@ -54,6 +54,7 @@
 | [0015-3sum](https://github.com/raisahibb/practice-DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/raisahibb/practice-DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisahibb/practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/raisahibb/practice-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/raisahibb/practice-DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/raisahibb/practice-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/raisahibb/practice-DSA/tree/master/0485-max-consecutive-ones) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raisahibb/practice-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/raisahibb/practice-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/raisahibb/practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/raisahibb/practice-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -119,6 +121,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/raisahibb/practice-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/raisahibb/practice-DSA/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/raisahibb/practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/raisahibb/practice-DSA/tree/master/0904-fruit-into-baskets) |
@@ -128,6 +131,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/raisahibb/practice-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/raisahibb/practice-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/raisahibb/practice-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
