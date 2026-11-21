@@ -79,6 +79,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/raisahibb/practice-DSA/tree/master/0509-fibonacci-number) |
 | [1927-sum-game](https://github.com/raisahibb/practice-DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raisahibb/practice-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raisahibb/practice-DSA/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/raisahibb/practice-DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -168,4 +170,12 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raisahibb/practice-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/raisahibb/practice-DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/raisahibb/practice-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
