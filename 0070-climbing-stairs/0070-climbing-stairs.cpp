@@ -6,11 +6,14 @@ public:
     }
     int count(int n, vector<int> &memo)
     {
-        if(n == 2 || n == 1)
+        if(n == 0)
         {
-            memo[n] = n;
-
+            memo[n] = 1;
             return memo[n];
+        }
+        if(n == -1)
+        {
+            return 0;
         }
 
         if(memo[n] != -1)
